@@ -48,31 +48,3 @@ export default function MealsNumber() {
         </>
     );
 }
-// state = {
-//     mealsNumber: 1,
-// };
-// // if user want to write meals number manually
-// updateInputValue = (e) => {
-//     this.setState({
-//         mealsNumber: e.target.value,
-//     });
-// }
-// // if user press plus button to increase meals number  
-// increaseMealsNumber = () => {
-//     this.setState({
-//         mealsNumber: this.state.mealsNumber + 1,
-//     });
-// }
-// // if user press minus button to decrease meals number
-// decreaseMealsNumber = () => {
-//     if (this.state.mealsNumber > 1) {
-//         this.setState({
-//             mealsNumber: this.state.mealsNumber - 1,
-//         });
-//     }
-// }
-// // if user want to add any purchases to his own carrier bag 
-// updatePurchases = () => {
-
-// }
-// // }
